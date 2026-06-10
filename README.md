@@ -2,7 +2,7 @@
 
 Data and code companion to the M2 thesis *Dislocation under Translation: A Corpus
 Study of Whisper and XLS-R on Spontaneous Spoken French* (Zoé de Vries, Université
-Paris Cité, 2026; supervised by N. Ballier).
+Paris Cité, 2026; supervised by Pr. Ballier).
 
 ## Pipeline
 
@@ -36,5 +36,5 @@ CFPP2000 URL.
 
 ## AI-assistance disclosure
 
-Executable code is the author's. Explanatory comments and markdown were drafted with
-LLM assistance and reviewed by the author; no executable logic was changed.
+Explanatory comments and markdown were drafted with
+LLM assistance and reviewed by the author.
