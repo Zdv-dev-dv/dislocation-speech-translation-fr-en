@@ -1,0 +1,9 @@
+# audio (never redistribute the CFPP2000 recording)
+*.wav
+data/whisper_output/
+*_ckpt_xlsr.csv
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
