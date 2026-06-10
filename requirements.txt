@@ -1,0 +1,13 @@
+# 01 Whisper
+openai-whisper
+torch
+librosa
+tqdm
+requests
+# 02 XLS-R
+transformers==4.44.2
+# 03 alignment
+pandas
+# 04 scoring
+sacrebleu
+unbabel-comet
